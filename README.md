@@ -29,5 +29,5 @@ Example:
 get_uptime START_TIME
 <some_code>
 get_elapsed_time first_delta "${START_TIME}"
-echo "Elapsed time in sentiseconds: ${first_delta}"
+echo "Elapsed time in centiseconds: ${first_delta}"
 ```
